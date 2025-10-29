@@ -1,5 +1,18 @@
 ## Hi there 👋
 
+### 📊 Моя статистика на GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dan-lipsky&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+</p>
+
+### 🌐 Мови, які я використовую
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dan-lipsky&layout=compact&theme=tokyonight" alt="Top Languages"/>
+</p>
+
+---
 <!--
 **oleksandrmyhydiuk/oleksandrmyhydiuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
