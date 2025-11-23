@@ -13,6 +13,8 @@
 </p>
 
 ---
+
+![](https://nirzak-streak-stats.vercel.app/?user=oleksandrmyhydiuk&theme=dark&hide_border=false)<br/>
 <!--
 **oleksandrmyhydiuk/oleksandrmyhydiuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
