@@ -15,6 +15,10 @@
 ---
 
 ![](https://nirzak-streak-stats.vercel.app/?user=oleksandrmyhydiuk&theme=dark&hide_border=false)<br/>
+
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=oleksandrmyhydiuk&theme=dark&hide_border=false" alt="Top Languages"/>
+</p>
 <!--
 **oleksandrmyhydiuk/oleksandrmyhydiuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
