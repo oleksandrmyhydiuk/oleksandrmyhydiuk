@@ -1,20 +1,18 @@
 ## Hi there 👋
 
-### 📊 Моя статистика на GitHub
+---
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=oleksandrmyhydiuk&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
 </p>
 
-### 🌐 Мови, які я використовую
+---
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oleksandrmyhydiuk&layout=compact&theme=tokyonight" alt="Top Languages"/>
 </p>
 
 ---
-
-![](https://nirzak-streak-stats.vercel.app/?user=oleksandrmyhydiuk&theme=dark&hide_border=false)<br/>
 
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=oleksandrmyhydiuk&theme=dark&hide_border=false" alt="Top Languages"/>
