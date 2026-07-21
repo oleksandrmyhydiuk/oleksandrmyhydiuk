@@ -3,7 +3,7 @@
     <td align="center" valign="middle" width="50%">
       <img src="./github.png" width="120" alt="GitHub Logo" style="display: block; margin: 0 auto 15px auto;" />
       <h1>Hey there, I'm Oleksandr!</h1>
-      <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true&vCenter=true&width=450&height=50&lines=DevOps+Engineer;" alt="About Me" style="display: block; margin: 0 auto;" />
+      <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true&vCenter=true&width=450&height=50&lines=DevOps;" alt="About Me" style="display: block; margin: 0 auto;" />
       <a href="https://sadservers.com" target="_blank">
         <img src="https://img.shields.io/badge/SadServers-Intermediate-2962FF?style=for-the-badge&labelColor=FFC400&logo=ansible&logoColor=1A237E&logoSize=auto" alt="SadServers Level" />
       </a>
@@ -39,6 +39,10 @@
       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="44" height="44" />
         <br />Docker
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=powershell" alt="PowerShell" width="44" height="44" />
+        <br />PowerShell
       </td>
     </tr>
     <!-- <tr>
