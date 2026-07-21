@@ -44,6 +44,10 @@
         <img src="https://skillicons.dev/icons?i=powershell" alt="PowerShell" width="44" height="44" />
         <br />PowerShell
       </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=nginx" alt="Nginx" width="44" height="44" />
+        <br />Nginx
+      </td>
     </tr>
     <!-- <tr>
       <td align="center" width="96">
