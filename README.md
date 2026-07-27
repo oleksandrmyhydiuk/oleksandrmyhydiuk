@@ -5,7 +5,7 @@
       <h1>Hey there, I'm Oleksandr!</h1>
       <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true&vCenter=true&width=450&height=50&lines=DevOps;" alt="About Me" style="display: block; margin: 0 auto;" />
       <a href="https://sadservers.com" target="_blank">
-        <img src="https://img.shields.io/badge/SadServers-Intermediate-2962FF?style=for-the-badge&labelColor=FFC400&logo=ansible&logoColor=1A237E&logoSize=auto" alt="SadServers Level" />
+        <img src="https://img.shields.io/badge/SadServers-Advanced-7B1FA2?style=for-the-badge&labelColor=FFC400&logo=terraform&logoColor=1A237E&logoSize=auto" alt="SadServers Level" />
       </a>
     </td>
     <td align="center" valign="middle" width="50%">
@@ -13,7 +13,6 @@
     </td>
   </tr>
 </table>
-
 
 <div align="center">
   <h3>My stack and tools :</h3>
