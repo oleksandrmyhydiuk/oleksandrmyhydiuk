@@ -14,90 +14,10 @@
   </tr>
 </table>
 
-<div align="center">
-  <h3>My stack and tools :</h3>
-  
-  <table>
-    <tr>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="44" height="44" />
-        <br />Linux
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=python" alt="Python" width="44" height="44" />
-        <br />Python
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=bash" alt="Bash" width="44" height="44" />
-        <br />Bash
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=git" alt="Git" width="44" height="44" />
-        <br />Git
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="44" height="44" />
-        <br />Docker
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=powershell" alt="PowerShell" width="44" height="44" />
-        <br />PowerShell
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=nginx" alt="Nginx" width="44" height="44" />
-        <br />Nginx
-      </td>
-    </tr>
-    <!-- <tr>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" width="44" height="44" />
-        <br />Kubernetes
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=aws" alt="AWS" width="44" height="44" />
-        <br />AWS
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=gcp" alt="GCP" width="44" height="44" />
-        <br />GCP
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=terraform" alt="Terraform" width="44" height="44" />
-        <br />Terraform
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=ansible" alt="Ansible" width="44" height="44" />
-        <br />Ansible
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=githubactions" alt="GitHub Actions" width="44" height="44" />
-        <br />GH Actions
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=gitlab" alt="GitLab CI" width="44" height="44" />
-        <br />GitLab CI
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=prometheus" alt="Prometheus" width="44" height="44" />
-        <br />Prometheus
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=grafana" alt="Grafana" width="44" height="44" />
-        <br />Grafana
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="44" height="44" />
-        <br />PostgreSQL
-      </td>
-    </tr> -->
-  </table>
-</div>
+
 
 
 <div align="center">
-  <h3>GitHub Stats :</h3>
   <img src="https://yourinsights.vercel.app/api/insight?username=oleksandrmyhydiuk&theme=github_dark&graph=false&languages=true&streak=true&stats=true&header=false&summary=false&profile=false" alt="GitHub Insights" />
 </div>
 
